@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="B2B Contact Enrichment" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # B2B Contact Enrichment
 
 A React-based web application for enriching B2B contact data using Exa AI People Search with Google Gemini as a fallback.
