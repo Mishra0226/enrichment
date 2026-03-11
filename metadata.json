@@ -1,0 +1,5 @@
+{
+  "name": "B2B Contact Enrichment",
+  "description": "Enrich B2B target accounts with verified contact profiles and emails.",
+  "requestFramePermissions": []
+}
